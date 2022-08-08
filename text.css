@@ -1,0 +1,19 @@
+body{
+    background: rgb(136, 136, 233);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 90%;
+}
+section{
+    background: white;
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 10px rgb(217, 228, 233);
+    
+}
+footer, header{
+    color: beige;
+}
+#botao{
+    color: blue;
+}
